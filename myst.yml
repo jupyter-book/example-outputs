@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ee007168-b9a5-4dba-8823-1639a4aeb956
+  title: Hello Plots
+  references:
+    guide: https://mystmd.org/guide
+  toc:
+    - file: index.md
+    - file: bokeh.md
+    - file: plotly.md
+site:
+  template: book-theme
+  options:
+    logo_text: Plots

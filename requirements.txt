@@ -1,0 +1,6 @@
+scipy
+numpy
+plotly
+bokeh
+jupyter-server
+ipykernel
