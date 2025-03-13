@@ -1,11 +1,16 @@
 # Plots
 
-There are many plots, such as [](#fig-plotly-output) and [](#fig-bokeh-output). See them below!
+MyST supports embedding plots from other pages and site! Here are some such plots, such as [](#fig-plotly-output) and [](#fig-bokeh-output). See them below!
 
-:::{embed} #fig-plotly
-:remove-input: true
+## A Plotly Figure
 
-A plotly figure.
+:::{embed} #fig-plotly-output
 :::
 
+## A Bokeh Figure
+
 ![](#fig-bokeh)
+
+## An External Figure!
+
+![](xref:guide#img:altair-horsepower-output)
