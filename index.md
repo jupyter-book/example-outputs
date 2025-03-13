@@ -13,4 +13,4 @@ MyST supports embedding plots from other pages and site! Here are some such plot
 
 ## An External Figure!
 
-![](xref:guide#img:altair-horsepower-output)
+![](xref:guide#img:altair-horsepower)
