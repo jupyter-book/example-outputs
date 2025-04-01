@@ -3,6 +3,8 @@ numpy
 plotly
 bokeh
 matplotlib
+sympy
 
+# Jupyter execution dependencies
 jupyter-server
 ipykernel
