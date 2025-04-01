@@ -6,9 +6,10 @@ project:
   references:
     guide: https://mystmd.org/guide
   toc:
-    - file: index.md
-    - file: bokeh.md
-    - file: plotly.md
+    - file: content/index.md
+    - file: content/bokeh.md
+    - file: content/plotly.md
+    - file: content/matplotlib.md
 site:
   template: book-theme
   options:

@@ -11,6 +11,10 @@ MyST supports embedding plots from other pages and site! Here are some such plot
 
 ![](#fig-bokeh)
 
+## A Matplotlib Figure
+
+![](#fig-matplotlib)
+
 ## An External Figure!
 
 ![](xref:guide#img:altair-horsepower)

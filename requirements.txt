@@ -2,5 +2,7 @@ scipy
 numpy
 plotly
 bokeh
+matplotlib
+
 jupyter-server
 ipykernel
