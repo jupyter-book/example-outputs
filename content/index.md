@@ -1,6 +1,6 @@
 # Plots
 
-MyST supports embedding plots from other pages and site! Here are some such plots, such as [](#fig-plotly-output) and [](#fig-bokeh-output). See them below!
+MyST supports embedding plots from other pages and site! Here are some such plots, such as [](#fig-plotly-outputs) and [](#fig-bokeh-outputs). See them below!
 
 ## A Plotly Figure
 
@@ -14,6 +14,11 @@ MyST supports embedding plots from other pages and site! Here are some such plot
 ## A Matplotlib Figure
 
 ![](#fig-matplotlib)
+
+### A SymPy Output
+
+![](#fig-sympy-outputs)
+![](#fig-sympy-outputs-0)
 
 ## An External Figure!
 
