@@ -1,25 +1,36 @@
-# Plots
+# Jupyter Outputs
 
 MyST supports embedding plots from other pages and site! Here are some such plots, such as [](#fig-plotly-outputs) and [](#fig-bokeh-outputs). See them below!
 
-## A Plotly Figure
+## Plots
+
+### A plotly figure
 
 :::{embed} #fig-plotly-output
 :::
 
-## A Bokeh Figure
+### A bokeh figure
 
 ![](#fig-bokeh)
 
-## A Matplotlib Figure
+### A matplotlib figure
 
 ![](#fig-matplotlib)
 
-### A SymPy Output
-
-![](#fig-sympy-outputs)
-![](#fig-sympy-outputs-0)
-
-## An External Figure!
+### An external figure!
 
 ![](xref:guide#img:altair-horsepower)
+
+## Content
+
+### A manual equation
+
+![](#eqn-manual)
+
+### A sympy equation
+
+![](#eqn-sympy)
+
+### A figure
+
+![](#fig-jupyter)

@@ -55,19 +55,3 @@ plt.axis('equal')
 plt.fill(x, y)
 plt.show()
 ```
-
-## Sympy Example
-
-```{code-cell} python3
-:name: fig-sympy
-
-from sympy.plotting import plot3d
-from sympy import symbols
-
-from sympy.plotting import plot3d
-x, y = symbols('x y')
-z = x**2 + y**2 + 4
-
-display(z)
-plot3d(z, (x, -10,10), (y, -10,10))
-```
