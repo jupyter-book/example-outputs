@@ -16,8 +16,8 @@ display(
     Latex(
 """
 $$
-\label{eqn-manual}
-E^2 = \left(pc\right)^2 + \left(m_0c^2\right)^2
+\\label{eqn-manual}
+E^2 = \\left(pc\\right)^2 + \\left(m_0c^2\\right)^2
 $$
 """
     )
