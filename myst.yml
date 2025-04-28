@@ -2,14 +2,21 @@
 version: 1
 project:
   id: ee007168-b9a5-4dba-8823-1639a4aeb956
-  title: Hello Plots
+  title: Jupyter Outputs
   references:
     guide: https://mystmd.org/guide
   toc:
     - file: content/index.md
-    - file: content/bokeh.md
-    - file: content/plotly.md
-    - file: content/matplotlib.md
+    - title: Plots
+      children:
+        - file: content/bokeh.md
+        - file: content/plotly.md
+        - file: content/matplotlib.md
+    - title: Content
+      children:
+        - file: content/markdown.md
+        - file: content/latex.md
+
 site:
   template: book-theme
   options:
