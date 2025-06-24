@@ -17,7 +17,7 @@ output_notebook()
 ```
 
 ```{code-cell} python3
-:name: fig-bokeh
+:name: out-bokeh
 
 sigma = 10
 rho = 28

@@ -14,7 +14,7 @@ np.random.seed(1)
 ```
 
 ```{code-cell} python3
-#| label: fig-plotly
+#| label: out-plotly
 
 # Number of data points
 N = 10000

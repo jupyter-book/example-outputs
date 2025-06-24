@@ -2,17 +2,40 @@
 
 MyST supports using notebook outputs inside figures, This page contains some examples. 
 
+
 ## A Matplotlib Figure
 
-![](#fig-matplotlib)
+:::{figure} #out-matplotlib
+:label: fig-matplotlib-1
+A matplotlib figure
+:::
 
 ## A Plotly Figure
 
-:::{figure} #fig-plotly-output
+:::{figure} #out-plotly
+:label: fig-plotly-1
 A plotly figure
 :::
 
+
 ## A Bokeh Figure
 
-![](#fig-bokeh)
+:::{figure} #out-bokeh
+:label: fig-bokeh-1
+A bokeh figure
+:::
 
+## An ipyWidgets figure
+
+:::{figure} #out-lorenz
+:label: fig-lorenz-1
+An ipywidgets figure
+:::
+
+
+## An ipyWidgets figure (procomputed, ipynb)
+
+:::{figure} #out-lorenz-2
+:label: fig-lorenz-2
+An ipywidgets figure
+:::

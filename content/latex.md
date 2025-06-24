@@ -9,6 +9,7 @@ kernelspec:
 Here's a LaTeX equation:
 
 ```{code-cell} python3
+:label: eqn-manual
 
 from IPython.display import Latex
 
@@ -27,7 +28,7 @@ $$
 And here's a generated LaTeX equation:
 
 ```{code-cell} python3
-:name: eqn-sympy
+:label: eqn-sympy
 
 from sympy import symbols
 

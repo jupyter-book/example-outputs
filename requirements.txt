@@ -4,6 +4,8 @@ plotly
 bokeh
 matplotlib
 sympy
+tqdm
+ipywidgets
 
 # Jupyter execution dependencies
 jupyter-server
