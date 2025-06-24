@@ -7,6 +7,9 @@ project:
     guide: https://mystmd.org/guide
   toc:
     - file: content/index.md
+    - file: content/figures.md
+    - file: content/embeds.md
+    - file: content/external.md
     - file: content/bokeh.md
     - file: content/plotly.md
     - file: content/matplotlib.md
