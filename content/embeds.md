@@ -4,24 +4,32 @@ MyST This supports embedding of notebook content and other files. The following 
 
 ## A Matplotlib Output
 
-:::{embed} #fig-matplotlib
+:::{embed} #out-matplotlib
 :::
 
-## A Plotly Figure
+## Embed a Plotly output
 
-:::{embed} #fig-plotly-output
+:::{embed} #out-plotly-output
 :::
 
-## A Bokeh Figure
+## Embed a Bokeh output
 
-:::{embed} #fig-bokeh
+:::{embed} #out-bokeh
 :::
 
-### A SymPy Output
+## Embed some sympy output
 
-![](#fig-sympy-outputs)
-![](#fig-sympy-outputs-0)
+![](#eqn-sympy)
 
-### A manual equation
+## Embed some maths
+
+![](#eqn-mlp)
+
+
+## Embed a manual equation
 
 ![](#eqn-manual)
+
+## Embed some markdown generated in an output
+
+![](#out-jupyter-markdown)

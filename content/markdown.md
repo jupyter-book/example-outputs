@@ -15,7 +15,7 @@ E(F) = \sum*{f \in F,\,c \in C} T*{fc} D\_{fc}\,,
 Here's a generated figure that references an equation:
 
 ```{code-cell} python3
-:name: fig-jupyter
+:name: out-jupyter-markdown
 
 from IPython.display import Markdown
 

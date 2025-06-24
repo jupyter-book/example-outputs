@@ -47,7 +47,7 @@ def koch_snowflake(order, scale=10):
 ```
 
 ```{code-cell} python3
-:name: fig-matplotlib
+:label: out-matplotlib
 x, y = koch_snowflake(order=5)
 
 plt.figure(figsize=(8, 8))

@@ -8,8 +8,10 @@ project:
   toc:
     - file: content/index.md
     - file: content/figures.md
+    - file: content/figures-w-placeholders.md
     - file: content/embeds.md
     - file: content/external.md
+    - file: content/xrefs.md
     - title: Content
       children:
         - file: content/markdown.md
@@ -19,10 +21,12 @@ project:
         - file: content/bokeh.md
         - file: content/plotly.md
         - file: content/matplotlib.md
-    - title: Content
-      children:
-        - file: content/markdown.md
-        - file: content/latex.md
+        - file: content/widgets.md
+        - file: content/widgets.ipynb
+  jupyter:
+    server:
+      url: http://localhost:8890
+      token: steve-test
 site:
   template: book-theme
   options:
