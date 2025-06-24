@@ -16,3 +16,12 @@ MyST This supports embedding of notebook content and other files. The following 
 
 :::{embed} #fig-bokeh
 :::
+
+### A SymPy Output
+
+![](#fig-sympy-outputs)
+![](#fig-sympy-outputs-0)
+
+### A manual equation
+
+![](#eqn-manual)
