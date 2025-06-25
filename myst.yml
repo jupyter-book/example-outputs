@@ -6,7 +6,8 @@ project:
   references:
     guide: https://mystmd.org/guide
   toc:
-    - file: content/index.md
+    - file: content/summary.md
+    - file: content/testing.md
     - file: content/figures.md
     - file: content/figures-w-placeholders.md
     - file: content/embeds.md
