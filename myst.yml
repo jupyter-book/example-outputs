@@ -19,6 +19,7 @@ project:
         - file: content/latex.md
     - title: Plots
       children:
+        - file: content/multiple.md
         - file: content/bokeh.md
         - file: content/plotly.md
         - file: content/matplotlib.md
@@ -26,8 +27,8 @@ project:
         - file: content/widgets.ipynb
   jupyter:
     server:
-      url: http://localhost:8890
-      token: steve-test
+      url: http://localhost:8888
+      token: my-local-token
 site:
   template: book-theme
   options:

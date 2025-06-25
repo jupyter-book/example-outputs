@@ -39,3 +39,10 @@ An ipywidgets figure
 :label: fig-lorenz-2
 An ipywidgets figure
 :::
+
+## A cell with multiple outputs
+
+:::{figure} #out-multiple
+:label: fig-multiple
+A notebook cell with mulitple outputs of differeing mimetypes
+:::

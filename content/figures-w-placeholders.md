@@ -46,3 +46,11 @@ An ipywidgets figure with a placeholder
 :placeholder: ./placeholder.jpg
 An ipywidgets figure with a placeholder
 :::
+
+## A cell with multiple outputs
+
+:::{figure} #out-multiple
+:label: fig-multiple-pl
+:placeholder: ./placeholder.jpg
+A notebook cell with mulitple outputs of differing mimetypes and a placeholder
+:::

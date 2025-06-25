@@ -33,3 +33,15 @@ MyST This supports embedding of notebook content and other files. The following 
 ## Embed some markdown generated in an output
 
 ![](#out-jupyter-markdown)
+
+## Embed some ipywidgets
+
+![](#out-lorenz)
+
+## Embed some ipywidgets (precomputed outputs, ipynb)
+
+![](#out-lorenz-2)
+
+## Embed a cell with multiple outputs
+
+![](#out-multiple)
