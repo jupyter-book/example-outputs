@@ -9,7 +9,7 @@ MyST This supports embedding of notebook content and other files. The following 
 
 ## Embed a Plotly output
 
-:::{embed} #out-plotly-output
+:::{embed} #out-plotly
 :::
 
 ## Embed a Bokeh output
