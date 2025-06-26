@@ -5,6 +5,7 @@ project:
   title: Jupyter Outputs
   references:
     guide: https://mystmd.org/guide
+    # local: http://localhost:3000
   toc:
     - file: content/summary.md
     - file: content/testing.md
