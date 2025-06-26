@@ -29,7 +29,7 @@ project:
   jupyter:
     server:
       url: http://localhost:8888
-      token: my-local-token
+      token: 23652e697a78aad1
 site:
   template: book-theme
   options:
