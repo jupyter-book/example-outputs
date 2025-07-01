@@ -44,5 +44,5 @@ An ipywidgets figure
 
 :::{figure} #out-multiple
 :label: fig-multiple
-A notebook cell with mulitple outputs of differeing mimetypes
+A notebook cell with multiple outputs of differeing mimetypes
 :::

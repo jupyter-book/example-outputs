@@ -52,5 +52,5 @@ An ipywidgets figure with a placeholder
 :::{figure} #out-multiple
 :label: fig-multiple-pl
 :placeholder: ./placeholder.jpg
-A notebook cell with mulitple outputs of differing mimetypes and a placeholder
+A notebook cell with multiple outputs of differing mimetypes and a placeholder
 :::

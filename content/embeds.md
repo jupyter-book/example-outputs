@@ -1,6 +1,6 @@
 # Embeds
 
-MyST This supports embedding of notebook content and other files. The following are some examples using the embed directive. 
+MyST supports embedding of notebook content and other files. The following are some examples using the @xref:guide#directive-embed.
 
 ## A Matplotlib Output
 
@@ -24,7 +24,6 @@ MyST This supports embedding of notebook content and other files. The following 
 ## Embed some maths
 
 ![](#eqn-mlp)
-
 
 ## Embed a manual equation
 
