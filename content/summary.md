@@ -16,3 +16,7 @@ or the same plots as figures, [](#fig-plotly-1) and [](#fig-bokeh-1).
     * [](./latex.md)
     * [](./markdown.md)
 
+
+This is just an image, but we use it as a placeholder in other places.
+
+![](./placeholder.jpg)
