@@ -3,6 +3,11 @@ title: Cross Referencing Things
 short_title: CrossReferencing
 ---
 
+## Things on this site
+
+As the data for these cross references are resolved on "this" origin, via loaders that
+can migrate the content and rewrite links correctly.
+
 * [](#fig-matplotlib-1)
 * [](#fig-plotly-1)
 * [](#fig-bokeh-1)
@@ -24,3 +29,9 @@ short_title: CrossReferencing
 * [Notebook Output (Markdown)](#out-jupyter-markdown)
 * [Notebook Output (Multiple)](#out-multiple)
 
+## External things
+
+As these are fetched from remote sources with whatever link rewriting is/was applied, if any,
+but that are still pending migration.
+
+* [A Notebook Cell from the MyST Markdown Guide](xref:guide#img:altair-horsepower)

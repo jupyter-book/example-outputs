@@ -3,6 +3,7 @@ version: 1
 project:
   id: ee007168-b9a5-4dba-8823-1639a4aeb956
   title: Jupyter Outputs
+  github: https://github.com/jupyter-book/example-outputs
   references:
     guide: https://mystmd.org/guide
     # local: http://localhost:3000
@@ -26,6 +27,8 @@ project:
         - file: content/matplotlib.md
         - file: content/widgets.md
         - file: content/widgets.ipynb
+  exports:
+    - format: meca
   jupyter:
     server:
       url: http://localhost:8888
