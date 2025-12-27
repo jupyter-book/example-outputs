@@ -19,6 +19,7 @@ project:
       children:
         - file: content/markdown.md
         - file: content/latex.md
+        - file: content/ast.md
     - title: Plots
       children:
         - file: content/multiple.md
