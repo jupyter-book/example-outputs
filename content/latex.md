@@ -9,7 +9,7 @@ kernelspec:
 Here's a LaTeX equation:
 
 ```{code-cell} python3
-:label: eqn-manual
+:label: cell-eqn-manual
 
 from IPython.display import Latex
 
@@ -25,10 +25,10 @@ $$
 )
 ```
 
-And here's a generated LaTeX equation:
+Which creates a hand-labelled @eqn-manual. And here's a generated LaTeX equation:
 
 ```{code-cell} python3
-:label: eqn-sympy
+:label: cell-eqn-sympy
 
 from sympy import symbols
 
@@ -38,4 +38,4 @@ z = x**2 + y**2 + 4
 display(z)
 ```
 
-The generated equation in @eqn-sympy is less fancy than that of @eqn-manual!
+The generated equation in @cell-eqn-sympy is less fancy than that of @cell-eqn-manual!
