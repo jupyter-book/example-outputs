@@ -21,6 +21,7 @@ project:
         - file: content/markdown.md
         - file: content/latex.md
         - file: content/ast.md
+        - file: content/alternation.md
     - title: Plots
       children:
         - file: content/multiple.md
