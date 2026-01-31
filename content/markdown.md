@@ -1,4 +1,9 @@
 ---
+author: Jupyter Book Team
+abstract: An export
+exports:
+  - format: pdf
+    template: lapreprint-typst
 kernelspec:
   name: python3
   display_name: Python 3
